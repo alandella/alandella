@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table align="center" width="100%"><tr>
-<td align="center"><img width="100%" src="./profile/stats.svg" alt="Andrea's GitHub stats" /></td>
-<td align="center"><img width="100%" src="./profile/top-langs.svg" alt="Most used languages" /></td>
-</tr></table>
+<p align="left">
+<img width="40%" src="./profile/stats.svg" alt="Andrea's GitHub stats" />
+<img width="43%" src="./profile/langs.svg" alt="Andrea's GitHub stats" />
+</p>  
 
 
