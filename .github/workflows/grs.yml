@@ -14,11 +14,15 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+    
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=transparent&title_color=4894E0&text_color=8B8B8B&border_color=F0F0F029&show_icons=true&count_private=true
@@ -26,7 +30,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=transparent&title_color=4894E0&text_color=8B8B8B&border_color=F0F0F029&layout=compact&langs_count=6
