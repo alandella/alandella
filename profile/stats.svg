@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Andrea Landella's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 36, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 37, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 236.3776912967067;
+        stroke-dashoffset: 236.27273129685594;
       }
     }
   
@@ -109,7 +109,7 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#F0F0F0"
+          stroke="#F0F0F04d"
           width="466"
           fill="#ffffff00"
           stroke-opacity="1"
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >36</text>
+      >37</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
