@@ -15,17 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img height="160"
-    src="./profile/stats.svg"
-    alt="Andrea's GitHub stats" />
-</div>
-<img height="160"
-    src="./profile/top-langs.svg"
-    alt="Andrea's GitHub stats" />
-</div>
-<img height="160"
-    src="./profile/pin-stats-organization-github-readme-stats.svg"
-    alt="Andrea's GitHub stats" />
-</div>
+<table align="center"><tr>
+<td><img height="160" src="./profile/stats.svg" alt="Andrea's GitHub stats" /></td>
+<td><img height="160" src="./profile/top-langs.svg" alt="Most used languages" /></td>
+</tr></table>
 
