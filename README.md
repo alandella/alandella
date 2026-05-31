@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table align="center"><tr>
-<td><img height="160" src="./profile/stats.svg" alt="Andrea's GitHub stats" /></td>
-<td><img height="160" src="./profile/top-langs.svg" alt="Most used languages" /></td>
+aaa
+
+<table align="center" width="100%"><tr>
+<td align="center" width="46%" height="180"><img width="100%" src="./profile/stats.svg" alt="Andrea's GitHub stats" /></td>
+<td align="center" width="50%" height="120"><img width="120%" src="./profile/top-langs.svg" alt="Most used languages" /></td>
 </tr></table>
+
 
