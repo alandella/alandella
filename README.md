@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+<img height="160"
+    src="./profile/stats.svg"
+    alt="Andrea's GitHub stats" />
+</div>
