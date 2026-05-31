@@ -20,7 +20,12 @@ Here are some ideas to get you started:
     src="./profile/stats.svg"
     alt="Andrea's GitHub stats" />
 </div>
+<img height="160"
+    src="./profile/top-langs.svg"
+    alt="Andrea's GitHub stats" />
+</div>
+<img height="160"
+    src="./profile/pin-stats-organization-github-readme-stats.svg"
+    alt="Andrea's GitHub stats" />
+</div>
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
