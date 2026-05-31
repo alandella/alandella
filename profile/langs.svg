@@ -1,8 +1,8 @@
 
       <svg
-        width="300"
-        height="195"
-        viewBox="0 0 300 115"
+        width="280"
+        height="115"
+        viewBox="0 0 280 115"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -92,7 +92,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="299"
+          width="279"
           fill="#fffefe"
           stroke-opacity="1"
         />
@@ -122,7 +122,7 @@
       
   
       <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+          <rect x="0" y="0" width="230" height="8" fill="white" rx="5"/>
         </mask>
         
         <rect
@@ -130,19 +130,9 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="245.28"
+          width="230"
           height="8"
           fill="#3572A5"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="245.28"
-          y="0"
-          width="14.719999999999999"
-          height="8"
-          fill="#555555"
         />
       
       
@@ -151,14 +141,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 98.11%
-      </text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 1.89%
+        Python 100.00%
       </text>
     </g>
   </g></g>
