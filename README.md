@@ -8,18 +8,15 @@ I am passionate about chemistry, for its transformative role in driving industri
 
 I completed a double MSc in Chemical & Sustainable Process Engineering at Politecnico di Milano and Politecnico di Torino, where I was drawn to mathematical physics and computer simulation of chemical reactions, specifically stochastic chemical kinetics. You may find more about it in my [MSc thesis](https://www.politesi.polimi.it/handle/10589/145475)!
 
-My interests lie at the intersection of theory, simulation, and experiment. I aim to develop scientific software tools that elucidate atomistic and molecular phenomena in reactive systems of industrial interest, such as CO₂ conversion. Moreover, I'm exploring AI for Science (AI4Science) approaches for discovering and designing novel molecules and materials, such as generative molecular design, reaction pathway exploration, surrogate modelling, and high-throughput characterization.
+My interests lie at the intersection of theory, simulation, and experiment. I aim to develop scientific software tools that elucidate atomistic and molecular phenomena in reactive systems of industrial interest, such as CO₂ conversion. Moreover, I'm exploring AI4Science approaches for discovering and designing novel molecules and materials, such as generative molecular design, reaction pathway exploration, surrogate modelling, and high-throughput characterization.
 
 On the side, I am interested in mathematical foundations of engineering, especially the geometric and algebraic structure underlying analytical mechanics. An exemplary treatise I enjoy reading is [Lanczos](https://books.google.it/books?id=cmPDAgAAQBAJ), among others.
 
-Check out my [Google Scholar](https://scholar.google.com/citations?user=Gkje7KQAAAAJ) for more details on my work.
+Check out my [Google Scholar](https://scholar.google.com/citations?user=Gkje7KQAAAAJ) for more details on my research work. Also, feel free to reach out via my email or drop me a message on LinkedIn! You will find more information about me on my website, when ready (still under construction).
 
-Feel free to reach out via my email or drop me a message on LinkedIn. You will find more information about me on my website, when ready (still under construction).
+<!-- <p align="left"> <img width="48%" src="./profile/stats.svg" alt="Andrea's GitHub stats" /><img width="49%" src="./profile/langs.svg" alt="Andrea's GitHub stats" />-->
 
-<p align="left">
-<img width="48%" src="./profile/stats.svg" alt="Andrea's GitHub stats" />
-<!--<img width="49%" src="./profile/langs.svg" alt="Andrea's GitHub stats" />-->
-</p>  
+#### Tech Stack
 
 Languages:
 <br>
