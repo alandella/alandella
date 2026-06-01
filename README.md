@@ -20,4 +20,13 @@ Here are some ideas to get you started:
 <!--<img width="49%" src="./profile/langs.svg" alt="Andrea's GitHub stats" />-->
 </p>  
 
+Languages:
+<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=round&logo=cplusplus&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=round&logo=latex&logoColor=white)
+
+<p style="font-size: 2em;">
+  Some text:
+  <img src="https://img.shields.io/badge/C++-00599C?style=round&logo=cplusplus&logoColor=white" alt="C++" style="height: 20px; width: auto; vertical-align: top" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=round&logo=latex&logoColor=white" alt="LaTeX" style="height: 20px; width: auto; vertical-align: top"/>
+</p>
 
