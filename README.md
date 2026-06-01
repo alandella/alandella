@@ -4,7 +4,7 @@ My Name is Andrea (`@alandella`)
 
 I am an industry professional, and my work sits between research and process engineering. My experience ranges from modelling and simulation of catalysts and reaction systems for CO₂ upcycling, to applying machine learning for data-driven optimization of sustainable processes. I enjoy turning ideas from research into solutions that work at scale.
 
-I am passionate about chemistry, for its transformative role in driving industrial and societal progress, such as in advancing clean process technologies, sustainable materials manufacturing, and circular economy practices.
+<!--I am passionate about chemistry, for its transformative role in driving industrial and societal progress, such as in advancing clean process technologies, sustainable materials manufacturing, and circular economy practices.-->
 
 I completed a double MSc in Chemical & Sustainable Process Engineering at Politecnico di Milano and Politecnico di Torino, where I was drawn to mathematical physics and computer simulation of chemical reactions, specifically stochastic chemical kinetics. You may find more about it in my [MSc thesis](https://www.politesi.polimi.it/handle/10589/145475)!
 
