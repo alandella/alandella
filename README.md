@@ -18,13 +18,14 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=Gkje7KQA
 
 #### Tech Stack
 
-Languages:
-<br>
-![C++](https://img.shields.io/badge/C++-00599C?style=round&logo=cplusplus&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=round&logo=latex&logoColor=white)
+| Category | Tools |
+|---|---|
+| **Languages & Scripting** | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| **Databases** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **AI/ML & Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white) |
+| **Computational Chemistry** | ![Gaussian](https://img.shields.io/badge/Gaussian-003366?style=flat&logoColor=white) ![MOLPRO](https://img.shields.io/badge/MOLPRO-4B0082?style=flat&logoColor=white) ![PySCF](https://img.shields.io/badge/PySCF-2E86AB?style=flat&logoColor=white) ![GROMACS](https://img.shields.io/badge/GROMACS-1E90FF?style=flat&logoColor=white) ![MESS](https://img.shields.io/badge/MESS-555555?style=flat&logoColor=white) ![VMD](https://img.shields.io/badge/VMD-1565C0?style=flat&logoColor=white) ![Molden](https://img.shields.io/badge/Molden-6A1B9A?style=flat&logoColor=white) |
+| **Scientific Writing** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white) |
+| **IDEs & Editors** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![GNU Emacs](https://img.shields.io/badge/GNU%20Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
-<p style="font-size: 2em;">
-  Some text:
-  <img src="https://img.shields.io/badge/C++-00599C?style=round&logo=cplusplus&logoColor=white" alt="C++" style="height: 20px; width: auto; vertical-align: top" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=round&logo=latex&logoColor=white" alt="LaTeX" style="height: 20px; width: auto; vertical-align: top"/>
-</p>
 
