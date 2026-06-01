@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-<img width="45%" src="./profile/stats.svg" alt="Andrea's GitHub stats" />
+<img width="48%" src="./profile/stats.svg" alt="Andrea's GitHub stats" />
 <!--<img width="49%" src="./profile/langs.svg" alt="Andrea's GitHub stats" />-->
 </p>  
 
