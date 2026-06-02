@@ -6,7 +6,7 @@ I am an industry professional, and my work sits between research and process eng
 
 <!--I am passionate about chemistry, for its transformative role in driving industrial and societal progress, such as in advancing clean process technologies, sustainable materials manufacturing, and circular economy practices.-->
 
-I hold a double MSc in Chemical & Sustainable Process Engineering from Politecnico di Milano and Politecnico di Torino. During my studies, I was drawn to the mathematical physics underlying chemical processes, in particular stochastic chemical kinetics, which became the subject of my [MSc thesis](https://www.politesi.polimi.it/handle/10589/145475).
+I hold a double MSc in Chemical & Sustainable Process Engineering from Politecnico di Milano and Politecnico di Torino. During my studies, I was drawn to the mathematical physics underlying chemical reactivity, in particular rare-events and stochastic simulation of chemical kinetics, which became the subject of my [MSc thesis](https://www.politesi.polimi.it/handle/10589/145475).
 
 My interests sit at the intersection of theory, simulation, and experiment. I aim to develop scientific software tools to elucidate atomistic and molecular phenomena in reactive systems, and I'm increasingly exploring AI4Science approaches — generative molecular design, reaction pathway exploration, surrogate modelling, and high-throughput characterization — for discovering and engineering novel materials for chemical reactions of industrial interests, such as CO₂ conversion.
 
