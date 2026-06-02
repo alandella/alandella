@@ -48,13 +48,6 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 [![Claude](https://img.shields.io/badge/Claude-da7757?style=flat&logo=anthropic&logoColor=white)](https://claude.com/)
 <sub>
 
-*Scientific Writing*
-<br>
-<sub>
-[![LaTeX](https://img.shields.io/badge/LaTeX-008181?style=flat&logo=latex&logoColor=white)](https://latex-project.org)
-[![Overleaf](https://img.shields.io/badge/Overleaf-046532?style=flat&logo=overleaf&logoColor=white)](https://overleaf.com)
-<sub>
-
 *Development Tools*
 <br>
 <sub>
