@@ -42,7 +42,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 <sub>
 [![NumPy](https://img.shields.io/badge/NumPy-4d76ce?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
 [![SciPy](https://img.shields.io/badge/SciPy-0054a5?style=flat&logo=scipy&logoColor=white)](https://scipy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-212832?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Pandas](https://img.shields.io/badge/Pandas-08609D?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-e55a2b?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![PySpark](https://img.shields.io/badge/PySpark-c9561e?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python)
 [![Claude](https://img.shields.io/badge/Claude-da7757?style=flat&logo=anthropic&logoColor=white)](https://claude.com/)
