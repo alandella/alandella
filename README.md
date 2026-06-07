@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My Name is Andrea (`@alandella`)
+My name is Andrea (`@alandella`). 
 
 I am an industry professional, and my work sits between research and process engineering. My experience ranges from modelling and simulation of catalysts and reaction systems for CO₂ upcycling, to applying machine learning for data-driven optimization of sustainable processes. I enjoy turning ideas from research into solutions that work at scale.
 
@@ -12,7 +12,7 @@ My interests sit at the intersection of theory, simulation, and experiment. I ai
 
 On the side, I am interested in mathematical foundations of engineering, especially the geometric and algebraic structure underlying analytical mechanics. An exemplary treatise I enjoy reading is [Lanczos](https://books.google.it/books?id=cmPDAgAAQBAJ), among others.
 
-You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=Gkje7KQAAAAJ). I'm always happy to connect! Reach out via email or LinkedIn.
+See my publications on [Google Scholar](https://scholar.google.com/citations?user=Gkje7KQAAAAJ) and further info on my [website](https://alandella.github.io). I'm always happy to connect! Reach out via email or LinkedIn.
 
 <!-- <p align="left"> <img width="48%" src="./profile/stats.svg" alt="Andrea's GitHub stats" /><img width="49%" src="./profile/langs.svg" alt="Andrea's GitHub stats" />-->
 
