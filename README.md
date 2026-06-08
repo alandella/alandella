@@ -30,13 +30,6 @@ See my publications on [Google Scholar](https://scholar.google.com/citations?use
 [![HTML5](https://img.shields.io/badge/HTML5-0054a5?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 <sub>
 
-*Databases*
-<br>
-<sub>
-[![SQLite](https://img.shields.io/badge/SQLite-0054a5?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0054a5?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
-<sub>
-
 *Data Science Libraries & AI Tools*
 <br>
 <sub>
@@ -57,3 +50,11 @@ See my publications on [Google Scholar](https://scholar.google.com/citations?use
 [![GNU Emacs](https://img.shields.io/badge/GNU%20Emacs-0054a5?style=flat&logo=gnuemacs&logoColor=white)](https://gnu.org/software/emacs)
 <!--[![Git](https://img.shields.io/badge/Git-F05130?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 <sub>-->
+
+*Databases*
+<br>
+<sub>
+[![SQLite](https://img.shields.io/badge/SQLite-0054a5?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0054a5?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
+<sub>
+
