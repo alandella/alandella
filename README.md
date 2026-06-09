@@ -16,8 +16,26 @@ See my publications on [Google Scholar](https://scholar.google.com/citations?use
 
 <!-- <p align="left"> <img width="48%" src="./profile/stats.svg" alt="Andrea's GitHub stats" /><img width="49%" src="./profile/langs.svg" alt="Andrea's GitHub stats" />-->
 
-### What I use
+### What I use for...
 
+<details>
+  <summary><i>Programming</i></summary>
+  - insert skill icons
+</details><details>
+  <summary><i>Data Science</i></summary>
+  - insert skill icons
+</details><details>
+  <summary><i>Databases</i></summary>
+  - insert skill icons
+</details><details>
+  <summary><i>Software Development</i></summary>
+  - insert skill icons (ides and github)
+</details><details>
+  <summary><i>Operating Systems</i></summary>
+  - insert skill icons
+</details>
+
+<!--
 *Programming Languages & Scripting*
 <br>
 <sub>
@@ -51,10 +69,12 @@ See my publications on [Google Scholar](https://scholar.google.com/citations?use
 <!--[![Git](https://img.shields.io/badge/Git-F05130?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 <sub>-->
 
+<!--
 *Databases*
 <br>
 <sub>
 [![SQLite](https://img.shields.io/badge/SQLite-0054a5?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0054a5?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
 <sub>
+-->
 
