@@ -2,7 +2,7 @@
 
 My name is Andrea (`@alandella`). 
 
-I am an industry professional, and my work sits between use-inspired research and chemical engineering practice. My experience ranges from modelling and simulation of catalysts and reaction systems for CO₂ upcycling, developing ML tools for data-driven optimization of manufacturing plants, and scaling-up waste upcycling processes. I enjoy turning research ideas into solutions that work at scale.
+I am an industry professional, and my work sits between use-inspired research and chemical engineering practice. My experience ranges from modelling and simulation of catalysts and process systems for CO₂ upcycling, developing ML tools for data-driven optimization of manufacturing plants, and scaling-up waste upcycling processes. I enjoy turning research ideas into solutions that work at scale.
 
 <!--I am passionate about chemistry, for its transformative role in driving industrial and societal progress, such as in advancing clean process technologies, sustainable materials manufacturing, and circular economy practices.-->
 
