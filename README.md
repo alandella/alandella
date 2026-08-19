@@ -2,13 +2,13 @@
 
 My name is Andrea (`@alandella`). 
 
-I am an industry professional, and my work sits between use-inspired research and engineering practice. My experience ranges from modelling and simulation of catalysts and reaction systems for CO₂ upcycling, developing machine learning tools for data-driven optimization of manufacturing plants, and scaling-up waste upcycling processes. I enjoy turning ideas from research into solutions that work at scale.
+I am an industry professional, and my work sits between use-inspired research and engineering practice. My experience ranges from modelling and simulation of catalysts and reaction systems for CO₂ upcycling, developing ML tools for data-driven optimization of manufacturing plants, and scaling-up waste upcycling processes. I enjoy turning research ideas into solutions that work at scale.
 
 <!--I am passionate about chemistry, for its transformative role in driving industrial and societal progress, such as in advancing clean process technologies, sustainable materials manufacturing, and circular economy practices.-->
 
 I hold a double MSc in Chemical & Sustainable Process Engineering from Politecnico di Milano and Politecnico di Torino. During my studies, I was drawn to the subject of computational physics and its approaches to predict chemical reactivity, particularly the stochastic simulation of rare event processes in chemical kinetics, which became the subject of my [MSc thesis](https://www.politesi.polimi.it/handle/10589/145475).
 
-I am captivated by the interface between theory, simulation, and experiment. I am interested in developing computational methods to elucidate the relations between atomic-scale phenomena and the macroscopic behaviour of reactive systems. Increasingly, I am exploring how AI4Science approaches (e.g. generative molecular design, reaction pathway exploration, fast surrogate modelling, and high-throughput characterization) can be integrated into molecular simulation workflows to accelerate the design of novel materials for industrially relevant processes such as CO₂ conversion. 
+I am captivated by the interface between theory, simulation, and experiment. I am interested in developing computational methods to elucidate how atomic-scale phenomena impact the macroscopic behaviour of reactive systems. I am exploring AI4Science approaches (e.g. generative molecular design, reaction pathway exploration, fast surrogate modelling, and high-throughput characterization) and their integration into molecular simulation workflows, to accelerate the design of novel materials for industrially relevant processes such as CO₂ conversion. 
 
 On the side, I am interested in reading and learning the mathematical foundations of engineering, especially the geometric and algebraic structure underlying analytical mechanics. An exemplary treatise I enjoy reading is [Lanczos](https://books.google.it/books?id=cmPDAgAAQBAJ), among others.
 
