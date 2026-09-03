@@ -70,7 +70,7 @@ See my publications on [Google Scholar](https://scholar.google.com/citations?use
 </details>
 
 <details>
-  <summary><i>AI Assistants</i></summary>
+  <summary><i>LLM Tools</i></summary>
 
   ![Claude Code](https://img.shields.io/badge/Claude%20Code-da7757?style=flat&logo=claude&logoColor=white)
   ![Claude Design](https://img.shields.io/badge/Claude%20Design-da7757?style=flat&logo=claude&logoColor=white)
