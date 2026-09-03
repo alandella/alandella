@@ -8,7 +8,7 @@ I hold a double MSc in Chemical & Sustainable Process Engineering from Politecni
 
 I am also captivated by the interface between theory, simulation, and experiment. I am interested in developing computational methods to elucidate how atomic-scale phenomena impact the macroscopic behaviour of reactive systems. I am exploring AI4Science approaches (e.g. generative molecular design, reaction pathway exploration, fast surrogate modelling, and high-throughput characterization) and their integration into molecular simulation workflows, in order to accelerate the discovery and design of materials and molecules.
 
-On the side, I am interested in reading and learning the mathematical foundations of engineering, especially the geometric and algebraic structure underlying analytical mechanics. An exemplary treatise I enjoy reading is [Lanczos](https://books.google.it/books?id=cmPDAgAAQBAJ), among others.
+On the side, I am interested in learning the mathematical foundations of engineering, especially the geometric and algebraic structure underlying analytical mechanics. An exemplary treatise I enjoy reading is [Lanczos](https://books.google.it/books?id=cmPDAgAAQBAJ), among others.
 
 See my publications on [Google Scholar](https://scholar.google.com/citations?user=Gkje7KQAAAAJ) and visit my [website](https://alandella.github.io). I'm always happy to connect!
 
