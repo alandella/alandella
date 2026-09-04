@@ -10,7 +10,7 @@ I am also captivated by the interface between theory, simulation, and experiment
 
 On the side, I am interested in learning the mathematical foundations of engineering, especially the geometric and algebraic structure underlying analytical mechanics. An exemplary treatise I enjoy reading is [Lanczos](https://books.google.it/books?id=cmPDAgAAQBAJ) book, among others.
 
-See my publications on [google scholar](https://scholar.google.com/citations?user=Gkje7KQAAAAJ) and visit my [website](https://alandella.github.io). I'm always happy to connect!
+See my publications on my [scholar](https://scholar.google.com/citations?user=Gkje7KQAAAAJ) profile and visit my [website](https://alandella.github.io). I'm always happy to connect!
 
 <!-- <p align="left"> <img width="48%" src="./profile/stats.svg" alt="Andrea's GitHub stats" /><img width="49%" src="./profile/langs.svg" alt="Andrea's GitHub stats" />-->
 
